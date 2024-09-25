@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col items-center justify-center gap-4 bg-white px-4 py-16 text-center font-light md:py-32">
+    <div className="flex flex-col items-center justify-center gap-4 bg-white px-4 py-8 text-center font-light md:py-24">
       <div className="text-4xl text-indigo-800 md:text-6xl">
         Welcome to Your Digital Planner
       </div>
